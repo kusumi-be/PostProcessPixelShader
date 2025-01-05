@@ -2,7 +2,7 @@ using UnityEngine;
 using System;
 [ExecuteInEditMode]
 
-public class PostProcessor : MonoBehaviour
+public class PixelPostProcessor : MonoBehaviour
 {
     //[SerializeField] private Material[] PP;
 
