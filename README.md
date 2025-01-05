@@ -1,4 +1,3 @@
-![比較画像](https://github.com/user-attachments/assets/a6e7c6f9-e3f7-4b6e-93aa-1ccd4219debe)# PostProcessPixelShader
 ![image](https://github.com/user-attachments/assets/45f9c531-8982-4559-916b-a65f42653f2d)
 
 ## 概要
