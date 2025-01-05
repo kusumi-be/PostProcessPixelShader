@@ -1,4 +1,4 @@
-# PostProcessPixelShader
+![比較画像](https://github.com/user-attachments/assets/a6e7c6f9-e3f7-4b6e-93aa-1ccd4219debe)# PostProcessPixelShader
 ![image](https://github.com/user-attachments/assets/45f9c531-8982-4559-916b-a65f42653f2d)
 
 ## 概要
@@ -10,7 +10,9 @@ Unityにて、ポストプロセスにより、3DCGをドット絵風に変換�
 - アウトラインの色
 - 色の階調化のON/OFF
 
-などが調整できます。
+などが調整できます。  
+
+![比較画像](https://github.com/user-attachments/assets/e4d1ec68-332c-4727-ab4a-f154bac19ee1)
 
 ## 動作環境
 Unity 2022.3.33f1にて動作確認をしております。  
