@@ -1,5 +1,5 @@
 # PostProcessPixelShader
-![image](https://github.com/user-attachments/assets/13b2f1b8-6853-4905-97b8-d479ea0bf9a8)
+![サムネ](https://github.com/user-attachments/assets/b98d8a43-b9ec-4148-bbea-e469fb349a0e)
 
 ## 概要
 Unityにて、ポストプロセスにより、3DCGをドット絵風に変換するシェーダーです。  
